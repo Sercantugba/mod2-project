@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export const Posts = ({post})=>(
     <article>
-        <h2>{post.first_name} {post.last_name}</h2>
+        <h2>{post.first_name} {post.last_name} {post.height} </h2>
         <p>{post.id}</p>
         
         {/* <p>{post.body.substring(0,100)}</p> */}
