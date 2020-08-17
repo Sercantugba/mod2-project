@@ -2,10 +2,10 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 const DashbordPage = () => (
   <section>
-    <h1>Dashboard</h1>
-    <p>This is the dashboard.</p>
+    <h1>Welcome to NBA Players website</h1>
+    <p>Search for players</p>
     <Link to="/posts" className="button">
-      View Posts
+      View Players
     </Link>
   </section>
 )
