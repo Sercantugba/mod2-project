@@ -16,7 +16,7 @@ class SearchBar extends Component {
         })
     }
     render() {
-        const playerInfo=this.state.playerData.filter(player=> player.first_name == this.state.playerName);
+        const playerInfo=this.state.playerData.filter(player=> player.first_name === this.state.playerName);
         console.log('playerInfo',playerInfo);
         // console.log(playerInfo[0].first_name);
         
@@ -31,7 +31,7 @@ class SearchBar extends Component {
                 <h1>Rest in Peace</h1>
                 <h2>"The Black Mamba"</h2>
                 <h3>1978-2020</h3>
-                <img src="https://assets.change.org/photos/1/ga/gh/ORgAghaqrCpZIAy-800x450-noPad.jpg?1580402387"/>
+                <img src="https://assets.change.org/photos/1/ga/gh/ORgAghaqrCpZIAy-800x450-noPad.jpg?1580402387" alt=''/>
                 
                 {/* {playerInfo.map((player,i)=><p key={i}>{player.first_name}</p>)} */}
                 <div className='Search-bar'>
