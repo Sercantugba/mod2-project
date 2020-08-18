@@ -9,7 +9,7 @@ const DashbordPage = () => (
     <p>Search for players</p>
     <SearchBar />
     <Link to="/posts" className="button">
-      View Players
+      View All Players
     </Link>
   </section>
 )
