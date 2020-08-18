@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import './App.css';
 const DashbordPage = () => (
   <section>
     <h1>Welcome to NBA Players website</h1>
