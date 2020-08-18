@@ -29,7 +29,8 @@ class SearchBar extends Component {
         return (
             <div>
                 <h1>Rest in Peace</h1>
-                <h1>1978-2020</h1>
+                <h2>"The Black Mamba"</h2>
+                <h3>1978-2020</h3>
                 <img src="https://assets.change.org/photos/1/ga/gh/ORgAghaqrCpZIAy-800x450-noPad.jpg?1580402387"/>
                 
                 {/* {playerInfo.map((player,i)=><p key={i}>{player.first_name}</p>)} */}
