@@ -40,6 +40,10 @@ class SearchBar extends Component {
                 <input type='text' value={this.state.playerName} onChange={e=>this.setState({playerName : e.target.value})}/>
                 {displayInfo}
                 </div>
+                {/* <div>
+                <input type='text' value={this.state.playerLastname} onChange={e=>this.setState({playerLastname : e.target.value})}/>
+                {displayInfo}
+                </div> */}
             </div>
         );
     }
