@@ -28,9 +28,8 @@ img{
 .Search-bar{
   color: white;
   text-emphasis-style: initial;
-  font: x-large;
-  border-color: yellow
-  
+  /* display: inline-block; */
+  display: -ms-inline-flexbox;
 }
 
 
