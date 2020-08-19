@@ -27,7 +27,7 @@ img{
 }
 .Search-bar{
   color: white;
-  list-style: -webkit-radial-gradient();
+  text-emphasis-style: initial;
 }
 
 
