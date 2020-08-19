@@ -2,6 +2,7 @@ div{
   text-align: center;
   background-color: aqua;
   margin: 25px;
+  text-decoration-style: dashed;
 }
 
 .App {
