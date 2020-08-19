@@ -20,15 +20,13 @@ img{
 .post-button{
   color: red;
 }
-/* .button{
+.button{
   color: green;
   margin-bottom: 50px;
   margin-top: 25px;
-} */
-section{
-  margin-bottom: 50px;
-  margin-top: 25px;
-
+}
+.Search-bar{
+  color: white;
 }
 
 
