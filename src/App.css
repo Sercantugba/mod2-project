@@ -4,17 +4,21 @@ div{
   margin: 25px;
   text-decoration-style: dashed;
 }
+h1{
+  color: aquamarine
+}
 
 h1:hover{
   color: yellow;
-  border-color: yellow;
+  /* border-color: yellow; */
 }
+
 h3{
   text-align: center;
-  color: whitesmoke;
+  color:black;
 }
 h2{
-  color: whitesmoke;
+  color: black;
 }
 
 img{
