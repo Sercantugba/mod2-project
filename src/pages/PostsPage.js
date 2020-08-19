@@ -26,7 +26,7 @@ if(posts === undefined){
 }
     return(
         <section>
-            <h1>NBA Players</h1>
+            <h1>All NBA Players</h1>
             {renderPosts()}
             
         </section>
