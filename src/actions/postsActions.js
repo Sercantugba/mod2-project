@@ -27,6 +27,7 @@ export function fetchPosts(){
 
         try{
             const res = await
+            // tried to used different API
             fetch('https://www.balldontlie.io/api/v1/players')
             const data = await res.json()
             console.log(data)
