@@ -12,6 +12,10 @@ h1:hover{
   color: yellow;
   /* border-color: yellow; */
 }
+link:hover{
+  color: chartreuse;
+
+}
 
 h3{
   text-align: center;
