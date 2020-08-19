@@ -25,11 +25,11 @@ class SearchBar extends Component {
         
         const displayInfo=playerInfo.map((player,i)=>{
             return( <div key={i}>
-                <p>{player.first_name}</p>
-                <p>{player.last_name}</p>
-                <p>{player.team.city}</p>
-                <p>{player.height_feet}</p>
-                <p>{player.height_inches}</p>
+                <p>Player Name: {player.first_name}</p>
+                <p>Player Lastname: {player.last_name}</p>
+                <p>City: {player.team.city}</p>
+                <p>Player Height: {player.height_feet} feet {player.height_inches} inch</p>
+                <p></p>
             </div>)
         })
         return (
