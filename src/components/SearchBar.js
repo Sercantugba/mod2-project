@@ -20,6 +20,7 @@ class SearchBar extends Component {
         // I have also tried to render lastname at the same time but it did not work
         // const playerLast=this.state.playerData.filter(player=> player.last_name === this.state.playerLastname);
         console.log('playerInfo',playerInfo);
+        // to make sure if it gives me data
         // console.log(playerInfo[0].first_name);
         
         const displayInfo=playerInfo.map((player,i)=>{
