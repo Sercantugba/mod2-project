@@ -8,6 +8,13 @@
 
 -The goal of this site is to make it easier for fans to know the stats of NBA players. Fans will be able to find stats of any NBA player in a faster way that is user-freindly. There will be a form similar to a search bar in which users can search up NBA players and then click the "search" button to get the stats on the NBA player that they searched for.
 
+-API Resources
+
+-https://github.com/public-apis/public-apis (Links to an external site.)
+-https://github.com/n0shake/Public-APIs (Links to an external site.)
+-https://any-api.com/ (Links to an external site.)
+-https://apilist.fun/
+
 
 
 
