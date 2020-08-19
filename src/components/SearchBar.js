@@ -4,7 +4,7 @@ class SearchBar extends Component {
         super(props)
         this.state={
             playerData:[],
-            playerName:'Player Name'
+            playerName:' Search Player Name'
         }
     }
     componentDidMount(){
