@@ -1,5 +1,5 @@
 
-![image](https://cdn.theathletic.com/app/uploads/2019/04/07214203/NBA_Poll-1024x638.jpg)
+![image](https://i.pinimg.com/originals/68/b7/25/68b725ba8433efd5dc4e2cf603730417.jpg)
 
 
 
