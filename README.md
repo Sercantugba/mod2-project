@@ -42,7 +42,7 @@ Minimum Project Requirements
 
 -readme file has embedded link (not url) to publicly deployed app
 
--Using a 3rd party api: 'https://www.balldontlie.io/api/v1/players'
+-a 3rd party api I used for this projects: 'https://www.balldontlie.io/api/v1/players'
 
 
 
