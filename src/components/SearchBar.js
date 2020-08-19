@@ -17,6 +17,7 @@ class SearchBar extends Component {
     }
     render() {
         const playerInfo=this.state.playerData.filter(player=> player.first_name === this.state.playerName);
+        const playerLast=this.state.playerData.filter(player=> player.last_name === this.state.playerLastname);
         console.log('playerInfo',playerInfo);
         // console.log(playerInfo[0].first_name);
         
@@ -40,10 +41,10 @@ class SearchBar extends Component {
                 <input type='text' value={this.state.playerName} onChange={e=>this.setState({playerName : e.target.value})}/>
                 {displayInfo}
                 </div>
-                {/* <div>
+                <div>
                 <input type='text' value={this.state.playerLastname} onChange={e=>this.setState({playerLastname : e.target.value})}/>
                 {displayInfo}
-                </div> */}
+                </div>
             </div>
         );
     }
