@@ -25,7 +25,7 @@ img{
   margin-bottom: 50px;
   margin-top: 25px;
 }
-.Search-bar{
+.Search-bar:hover{
   color: white;
   text-emphasis-style: initial;
   /* display: inline-block; */
