@@ -1,3 +1,6 @@
+![image](https://v7x6h3g2.rocketcdn.me/wp-content/uploads/2018/12/nba-chart-11.png)
+
+
 Minimum Project Requirements
 
 -Project must be approved by Instructor approval at the start of project week
