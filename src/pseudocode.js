@@ -11,3 +11,5 @@
 // Then I created pages folder inside of the pages folder I have two files dashbordpage.js and postpage.js files.
 
 // I imported searchbar file from dashbordpage file and also have link for view all players.
+
+// Also created reducers folder created actions to get data.
