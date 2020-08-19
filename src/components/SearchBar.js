@@ -28,6 +28,7 @@ class SearchBar extends Component {
                 <p>{player.last_name}</p>
                 <p>{player.team.city}</p>
                 <p>{player.height_feet}</p>
+                <p>{player.height_inches}</p>
             </div>)
         })
         return (
