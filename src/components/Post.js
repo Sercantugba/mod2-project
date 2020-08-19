@@ -9,7 +9,7 @@ export const Posts = ({post})=>(
         {/* <p>{post.body.substring(0,100)}</p> */}
 
         <Link to={`/posts/${post.id}`} className="post-button">
-        View Players
+        Back to Main page
       </Link>
  
     </article>
