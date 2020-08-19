@@ -32,7 +32,7 @@ if(posts === undefined){
         </section>
     )
 }
-// Map Redux state to the React component Props
+// Map Redux state to the React component Props that we did in class
 const mapStateToProps = (state)=>({
     loading: state.posts.loading,
     posts: state.posts.posts,
