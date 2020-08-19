@@ -11,8 +11,11 @@
 -API Resources
 
 -https://github.com/public-apis/public-apis (Links to an external site.)
+
 -https://github.com/n0shake/Public-APIs (Links to an external site.)
+
 -https://any-api.com/ (Links to an external site.)
+
 -https://apilist.fun/
 
 
