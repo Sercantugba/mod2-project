@@ -8,6 +8,8 @@
 
 -The goal of this site is to make it easier for fans to know the stats of NBA players. Fans will be able to find stats of any NBA player in a faster way that is user-freindly. There will be a form similar to a search bar in which users can search up NBA players and then click the "search" button to get the stats on the NBA player that they searched for.
 
+-3rd party api I used for this project: 'https://www.balldontlie.io/api/v1/players'
+
 -API Resources
 
 -https://github.com/public-apis/public-apis (Links to an external site.)
@@ -74,7 +76,7 @@ Minimum Project Requirements
 
 -readme file has embedded link (not url) to publicly deployed app
 
--a 3rd party api I used for this projects: 'https://www.balldontlie.io/api/v1/players'
+
 
 
 
