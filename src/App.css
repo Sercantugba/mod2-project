@@ -5,12 +5,16 @@ div{
   text-decoration-style: dashed;
 }
 
-h1{
-  color: blueviolet;
+h1:hover{
+  color: yellow;
+  border-color: yellow;
 }
 h3{
   text-align: center;
-  color: black;
+  color: whitesmoke;
+}
+h2{
+  color: whitesmoke;
 }
 
 img{
