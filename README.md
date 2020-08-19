@@ -1,7 +1,7 @@
 
 ![image](https://cdn.theathletic.com/app/uploads/2019/04/07214203/NBA_Poll-1024x638.jpg)
 
-![image](NBA Diagram.png)
+
 
 ![image](https://v7x6h3g2.rocketcdn.me/wp-content/uploads/2018/12/nba-chart-11.png)
 
