@@ -1,3 +1,5 @@
+This my deploy url : https://nba-players-3bc69.web.app
+
 -My Proposal
 
 -My application: NBA player api

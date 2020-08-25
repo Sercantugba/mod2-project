@@ -17,7 +17,7 @@ const App = () => {
   return (
    <Router>
        <Link to="/">
-        Back to Main page
+        Go to Other page
       </Link>
      <Switch>
        <Route exact path="/" component={DashbordPage}/>
